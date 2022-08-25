@@ -20,10 +20,9 @@ Python, Flask
 Python, Flask, scikit-learn, SciPy, Pandas.
 
 **Algorithms Used**
-Cosine_similarity
-CountVectorizer
+Cosine_similarity,
+CountVectorizer,
 TfidfVectorizer
-PPT for Algorithm Role Explanation
 
 **Getting Started**
 To install and run the project on your local system, following are the requirements:
