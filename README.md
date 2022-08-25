@@ -5,7 +5,7 @@ https://youtu.be/lvGnxtrTuTk
 **About The Project**
 Recommendation App built during Microsoft Engage 2022 program.
 This project is based on the third challenge Algorithms.
-Demonstrates what role collabrative filtering Based Filtering plays in recommending books to a user.
+Demonstrates what role collabrative filtering plays in recommending books to a user.
 Salient Features
 An Engaging UI that displays Trending, Top 50 Rated books along with their descriptions and average rating.
 Has a "Recommend section" that displays tiles of recommended book containing Title, Genres and Match Score.
